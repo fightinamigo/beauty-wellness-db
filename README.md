@@ -2,7 +2,7 @@
 
 A full relational database system for a luxury spa management platform, built as a university project for **Introduction to Databases (IS211)** at Cairo University's Faculty of Computers and Artificial Intelligence.
 
-> Phase 2 & 3 of the IS211 project — Physical Data Model & SQL Implementation
+> Professional Beauty & Wellness Network project — Physical Data Model & SQL Implementation
 
 ---
 
@@ -83,9 +83,7 @@ A luxury wellness brand manages several high-end spas offering relaxation and gr
 ├── Beauty_DDL.sql     # Full schema — CREATE TABLE statements + constraints
 ├── beauty_app.py      # Python database interface
 ├── Beauty_CDM.cdm     # Conceptual Data Model (PowerAMC)
-├── Phase1_Excel.xlsx  # Phase 1 dashboard (Sports Car dataset)
-├── SportCar_Phase1.docx # Phase 1 report
-└── project_report.pdf # Full Phase 2/3 report with CDM and PDM diagrams
+└── The Professional Beauty & Wellness Network.pdf # Full report with CDM and PDM diagrams
 ```
 
 ---
